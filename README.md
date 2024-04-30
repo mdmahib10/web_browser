@@ -1,16 +1,15 @@
 # web_browser
 
-A web browser
+A simple web browser
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a simple web browser.
 
-A few resources to get you started if this is your first Flutter project:
+How to use:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  The url bar above dosen't work . It will be implemented soon.
+  The Homepage in Google Search page. Frome here all of the internet can be accessed.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+That's it. Enjoy the most simplest and the most secure browser with no history tracking and no cookies.
